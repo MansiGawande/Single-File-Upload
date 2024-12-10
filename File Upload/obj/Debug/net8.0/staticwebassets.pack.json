@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\File Upload.bundle.scp.css",
+      "PackagePath": "staticwebassets\\File Upload.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\129781ac-8320-412f-8bf1-d0026ad5e0db.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\129781ac-8320-412f-8bf1-d0026ad5e0db.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\3f5e5ae4-f5ad-4071-b9d6-59151458a124.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\3f5e5ae4-f5ad-4071-b9d6-59151458a124.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\413957cf-816a-4f82-a8ec-b3164492bb1b.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\413957cf-816a-4f82-a8ec-b3164492bb1b.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\616c7d2a-4222-415f-a91f-942ddf945422.jpg",
+      "PackagePath": "staticwebassets\\images\\gift\\616c7d2a-4222-415f-a91f-942ddf945422.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\66036cd7-a2df-47b8-819c-da394428737a.jpg",
+      "PackagePath": "staticwebassets\\images\\gift\\66036cd7-a2df-47b8-819c-da394428737a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\759fd8b4-b02b-444b-86a0-a1702bb0c3b4.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\759fd8b4-b02b-444b-86a0-a1702bb0c3b4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\767b7d05-9e07-439a-941f-a658139aa9af.jpg",
+      "PackagePath": "staticwebassets\\images\\gift\\767b7d05-9e07-439a-941f-a658139aa9af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\a7caabe8-d162-4488-a423-e1f4845d3da7.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\a7caabe8-d162-4488-a423-e1f4845d3da7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\af0e291c-6289-4357-9693-68f0f30eb49b.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\af0e291c-6289-4357-9693-68f0f30eb49b.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\b888390f-f4eb-4775-a203-0978a070c433.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\b888390f-f4eb-4775-a203-0978a070c433.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\dd20ed83-4da2-4ec3-a913-f2d80f4c6edd.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\dd20ed83-4da2-4ec3-a913-f2d80f4c6edd.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\images\\gift\\fbbdbfd8-0800-476d-8884-18f4f49aa5e0.jfif",
+      "PackagePath": "staticwebassets\\images\\gift\\fbbdbfd8-0800-476d-8884-18f4f49aa5e0.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.File Upload.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.File Upload.props",
+      "PackagePath": "build\\File Upload.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.File Upload.props",
+      "PackagePath": "buildMultiTargeting\\File Upload.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.File Upload.props",
+      "PackagePath": "buildTransitive\\File Upload.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

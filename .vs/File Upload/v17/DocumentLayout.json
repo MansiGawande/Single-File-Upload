@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|c:\\users\\mansi.gawande\\documents\\file upload\\file upload\\file upload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{477260FA-4CA7-4EEF-A1F8-6A9520CAED7C}|File Upload\\File Upload.csproj|solutionrelative:file upload\\file upload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\appsettings.json",
+              "RelativeDocumentMoniker": "File Upload\\appsettings.json",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\appsettings.json",
+              "RelativeToolTip": "File Upload\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T04:38:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "File Upload",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\File Upload.csproj",
+              "RelativeDocumentMoniker": "File Upload\\File Upload.csproj",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\File Upload.csproj",
+              "RelativeToolTip": "File Upload\\File Upload.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T04:40:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "File Upload\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "File Upload\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:41:22.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Models\\Gift.cs",
+              "RelativeDocumentMoniker": "File Upload\\Models\\Gift.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Models\\Gift.cs",
+              "RelativeToolTip": "File Upload\\Models\\Gift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:49:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Program.cs",
+              "RelativeDocumentMoniker": "File Upload\\Program.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Program.cs",
+              "RelativeToolTip": "File Upload\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:51:10.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "File Upload\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "File Upload\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:54:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "File Upload\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "File Upload\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T04:56:08.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "File Upload\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "File Upload\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T05:04:49.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\.gitignore",
+              "RelativeDocumentMoniker": "File Upload\\.gitignore",
+              "ToolTip": "C:\\Users\\mansi.gawande\\Documents\\File Upload\\File Upload\\.gitignore",
+              "RelativeToolTip": "File Upload\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-10T06:40:48.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
